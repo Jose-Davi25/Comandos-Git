@@ -43,6 +43,7 @@ Desfazer Alterações
 - `git reset HEAD nome-do-arquivo` → Remove o arquivo do stage, mas mantém as alterações no diretório de trabalho.
 - `git revert commit-hash` → Cria um novo commit que desfaz as alterações de um commit específico.
 
+Comandos de Verificação
 - `git log` → Exibir o histórico de commits.
 
 - `git shortlog` → Exibir um resumo dos commits organizados por autor.
@@ -51,6 +52,7 @@ Desfazer Alterações
 
 - `git diff` → Mostrar diferenças entre versões de arquivos.
 
+Comandos de Reversão
 - `git reset --soft` → Resetar o último commit mantendo as alterações no stage.
 
 - `git reset --mixed` → Resetar o último commit mantendo as alterações no diretório de trabalho.
