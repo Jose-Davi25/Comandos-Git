@@ -4,6 +4,11 @@ Olá, Mundo!
 
 #### Comandos para o Terminal do Git ####
 
+Configurações do Git
+- `git config --global user.name "Seu Nome"` → Configura o nome do usuário.
+- `git config --global user.email "seu-email@example.com"` → Configura o email do usuário.
+- `git config --list` → Lista todas as configurações do Git.
+
 - `vim nome.md` → Criar um arquivo.
 
 Adicionar Todos os Arquivos
