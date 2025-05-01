@@ -29,7 +29,7 @@ Conectar o repositório local ao remoto:
 - `git remote -v` → Verifica se o repositório remoto foi adicionado corretamente.
 
 Enviar o código para o repositório remoto
-- `git push origin master` → Enviar as alterações para o repositório online.
+- `git push origin main` → Enviar as alterações para o repositório online.
 - `git push --all origin` → Envia todas as branches locais para o repositório remoto.
 - `git push origin --tags` → Envia todas as tags para o repositório remoto.
 
